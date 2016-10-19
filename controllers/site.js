@@ -1,4 +1,4 @@
-var logger = require('../common/logger');
+const logger = require('../common/logger');
 
 exports.index = function(req,res){
     

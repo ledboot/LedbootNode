@@ -8,7 +8,9 @@
     "express": "^4.14.0",
     "jade": "^1.11.0",
     "log4js": "^0.6.38",
-    "mongoose": "^4.6.1"
+    "moment": "^2.15.1",
+    "mongoose": "^4.6.1",
+    "vue": "^1.0.28"
   },
   "devDependencies": {},
   "scripts": {

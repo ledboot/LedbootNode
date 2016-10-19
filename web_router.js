@@ -1,7 +1,7 @@
-var express = require('express');
-var site = require('./controllers/site');
+const express = require('express');
+const site = require('./controllers/site');
 
-var router = express.Router();
+const router = express.Router();
 
 router.get('/',site.index);
 
